@@ -6,3 +6,16 @@ body {
 a {
   color: #00B7FF;
 }
+
+
+.dayTable{
+
+  width: 80%;
+  background-color: beige;
+  border: 1px solid black;
+
+}
+.dayTable .dayHeader{
+  background-color: blue;
+  height: 35px;
+}
