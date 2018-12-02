@@ -2,6 +2,10 @@
   "name": "project1",
   "version": "0.0.0",
   "private": true,
+  "repository": {
+    "url": "https://github.com/haberkorns/Project1",
+    "type": "git"
+  },
   "scripts": {
     "start": "nodemon ./bin/www"
   },
